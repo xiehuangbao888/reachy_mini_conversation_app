@@ -67,4 +67,5 @@ src/reachy_mini_conversation_app/profiles/user_personalities/
 # Terminal-mode runtime content
 external_content/external_profiles/*
 external_content/external_tools/*
+!external_content/external_tools/gripper_control.py
 external_content/installed_tool_spaces.json
